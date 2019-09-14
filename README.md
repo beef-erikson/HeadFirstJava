@@ -1,5 +1,5 @@
 # HeadFirstJava
-Code from the book Head First Java
+Code from the book Head First Java<br />
 ![Head First Java](https://images-na.ssl-images-amazon.com/images/I/51GFTS0rLSL._SX218_BO1,204,203,200_QL40_.jpg)
 
 # Chapter 1
